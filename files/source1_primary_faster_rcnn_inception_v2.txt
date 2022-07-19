@@ -53,14 +53,14 @@ nvbuf-memory-type=0
 [sink0]
 enable=1
 #Type - 1=FakeSink 2=EglSink 3=File
-type=2
+type=3
 sync=0
 source-id=0
 gpu-id=0
 nvbuf-memory-type=0
 container=1
 bitrate=4000000
-output-file=/opt/nvidia/deepstream/deepstream-5.0/models/output.mp4
+output-file=/code/output.mp4
 codec=1
 
 [osd]
