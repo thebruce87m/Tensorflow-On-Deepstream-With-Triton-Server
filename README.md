@@ -2,8 +2,10 @@ https://developer.nvidia.com/blog/deploying-models-from-tensorflow-model-zoo-usi
 
 https://forums.developer.nvidia.com/t/deploying-models-from-tensorflow-model-zoo-using-nvidia-deepstream-and-nvidia-triton-inference-server/155682
 
+```bash
 # Download the files
 ./001-download.sh
+
 
 # Run the docker:
 ./002-run-docker.sh
@@ -18,3 +20,4 @@ Note - run in docker
 
 # Exit the docker
 exit
+```
