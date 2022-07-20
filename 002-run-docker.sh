@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 
 # Run the docker:
 
@@ -17,4 +16,4 @@ docker run \
 -e DISPLAY=$DISPLAY \
 -e CUDA_VER=11.6 \
 -w /code/ \
-nvcr.io/nvidia/deepstream:5.0-20.07-triton
+nvcr.io/nvidia/deepstream:6.1-triton

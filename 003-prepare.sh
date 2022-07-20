@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export DEEPSTREAM_DIR=/opt/nvidia/deepstream/deepstream-5.0/
+export DEEPSTREAM_DIR=/opt/nvidia/deepstream/deepstream-6.1/
 
 # Copy the model
 
